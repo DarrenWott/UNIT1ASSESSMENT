@@ -10,6 +10,8 @@
 */
 
 //CODE HERE
+var gitDefinition = "Git is a program"
+console.log(gitDefinition)
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+var gitHubDefinition = "Github is a website where you store repositories for code"
+console.log(gitHubDefinition)
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +30,8 @@
 */
 
 //CODE HERE
+var gitInitDefinition = "git init starts the process for you local repository"
+console.log(gitInitDefinition)
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +40,8 @@
 */
 
 //CODE HERE
+var gitCloneDefinition = "git clone, clones a repository into a newly created directory"
+console.log(gitCloneDefinition)
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+var gitStatusDefinition = "git status shows any changes or modification done to your code."
+console.log(gitStatusDefinition)
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +63,11 @@
 */
 
 //CODE HERE
+var gitAddDefinition = "git add only adds the content at that specific time you request the command"
+console.log(gitAddDefinition)
+
+var gitAddCode = "git add ."
+console.log(gitAddCode)
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +79,11 @@
 */
 
 //CODE HERE
+var gitCommitDefinition = "git commit is a snapshot of your repository at a specific time"
+console.log(gitCommitDefinition)
 
+var gitCommitCode = "git commit -m"
+console.log(gitCommitCode)
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +92,5 @@
 */
 
 //CODE HERE
+var gitPushDefinition = "git push will send your local repository to a remote repository"
+console.log(gitPushDefinition)
