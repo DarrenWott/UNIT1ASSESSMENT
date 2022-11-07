@@ -27,9 +27,8 @@ console.log(lovesCode === true)
 */
 
 //CODE HERE
-var favenum = 13
 if(favenum = 13){
-  console.log('lucky 13!')
+  console.log('lucky 13')
 } else {
   console.log('not lucky 13')
 }
@@ -40,6 +39,6 @@ if(favenum = 13){
 */
 
 //CODE HERE
-for(let i = 0; i < 5; i++){
-  console.log(33)
+for(let i = 0; i < myArr.length; i++){
+  console.log(myArr[i])
 }
